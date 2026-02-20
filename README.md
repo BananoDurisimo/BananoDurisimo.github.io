@@ -17,7 +17,8 @@ Primer proyecto desarrollado con React + Vite, enfocado en la maquetación de un
 
 📂 Estructura del Proyecto
 
-<img width="594" height="817" alt="image" src="https://github.com/user-attachments/assets/c5ca49d5-1567-4dac-af8a-07c19bc139e0" />
+
+<img width="551" height="761" alt="Captura de pantalla 2026-02-20 171229" src="https://github.com/user-attachments/assets/774f20e2-5ecf-4308-ae54-cb2731083bc3" />
 
 
 
